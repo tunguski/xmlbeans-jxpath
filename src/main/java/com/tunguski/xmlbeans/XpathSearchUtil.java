@@ -13,7 +13,7 @@ import org.apache.xmlbeans.XmlOptions;
  * @author Marek Romanowski
  * @since 25-11-2012
  */
-public class ConfigureUtil {
+public class XpathSearchUtil {
 
 
   /**
